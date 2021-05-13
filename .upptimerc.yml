@@ -1,31 +1,38 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: smithfield-studio
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Smithfield
+    url: https://smithfield.studio
+  - name: Change.org
+    url: https://changefoundation.org
+  - name: Wooshii
+    url: https://wooshii.com
+  - name: Oneflow
+    url: https://oneflow.com
+  - name: WWF Planet-Based Diets
+    url: https://planetbaseddiets.panda.org
+  - name: AFRIpads
+    url: https://www.afripads.com
+  - name: Kindness
+    url: https://kindness.org
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  cname: status.smithfield.studio
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Smithfield Status
+  introTitle: "**Smithfield** clients site uptime/status"
+  introMessage: Powered by the amazing open source [Upptime project](https://github.com/upptime/upptime) ❤️
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Smithfield Studio
+      href: https://smithfield.studio/
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
