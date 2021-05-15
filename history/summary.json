@@ -40,36 +40,40 @@
     "url": "https://wooshii.com",
     "icon": "https://favicons.githubusercontent.com/wooshii.com",
     "slug": "wooshii",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 679,
-    "timeWeek": 782,
-    "timeMonth": 782,
-    "timeYear": 782,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 647,
+    "timeDay": 395,
+    "timeWeek": 647,
+    "timeMonth": 647,
+    "timeYear": 647,
+    "dailyMinutesDown": {
+      "2021-05-15": 1
+    }
   },
   {
     "name": "Oneflow",
     "url": "https://oneflow.com",
     "icon": "https://favicons.githubusercontent.com/oneflow.com",
     "slug": "oneflow",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 767,
-    "timeDay": 661,
-    "timeWeek": 767,
-    "timeMonth": 767,
-    "timeYear": 767,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 635,
+    "timeDay": 384,
+    "timeWeek": 635,
+    "timeMonth": 635,
+    "timeYear": 635,
+    "dailyMinutesDown": {
+      "2021-05-15": 1
+    }
   },
   {
     "name": "WWF Planet-Based Diets",
@@ -94,9 +98,9 @@
     "url": "https://www.afripads.com",
     "icon": "https://favicons.githubusercontent.com/www.afripads.com",
     "slug": "afr-ipads",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +109,9 @@
     "timeWeek": 743,
     "timeMonth": 743,
     "timeYear": 743,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-15": 0
+    }
   },
   {
     "name": "Kindness",
