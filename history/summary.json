@@ -22,19 +22,19 @@
     "url": "https://changefoundation.org",
     "icon": "https://favicons.githubusercontent.com/changefoundation.org",
     "slug": "change-org",
-    "status": "down",
-    "uptime": "91.63%",
-    "uptimeDay": "72.77%",
-    "uptimeWeek": "91.63%",
-    "uptimeMonth": "91.63%",
-    "uptimeYear": "91.63%",
-    "time": 7355,
-    "timeDay": 11502,
-    "timeWeek": 7355,
-    "timeMonth": 7355,
-    "timeYear": 7355,
+    "status": "up",
+    "uptime": "90.79%",
+    "uptimeDay": "69.75%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "90.79%",
+    "uptimeYear": "90.79%",
+    "time": 9370,
+    "timeDay": 14076,
+    "timeWeek": 9370,
+    "timeMonth": 9370,
+    "timeYear": 9370,
     "dailyMinutesDown": {
-      "2021-05-16": 393
+      "2021-05-16": 437
     }
   },
   {
