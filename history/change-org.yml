@@ -1,7 +1,7 @@
 url: https://changefoundation.org
-status: up
-code: 200
-responseTime: 882
-lastUpdated: 2021-06-26T02:39:22.189Z
+status: down
+code: 500
+responseTime: 1266
+lastUpdated: 2021-06-26T04:56:57.322Z
 startTime: Thu May 13 2021 13:31:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
