@@ -140,17 +140,19 @@
     "url": "https://kindness.org",
     "icon": "https://favicons.githubusercontent.com/kindness.org",
     "slug": "kindness",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 224,
-    "timeWeek": 199,
-    "timeMonth": 185,
+    "timeDay": 159,
+    "timeWeek": 186,
+    "timeMonth": 183,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   }
 ]
