@@ -4,9 +4,9 @@
     "url": "https://smithfield.studio",
     "icon": "https://favicons.githubusercontent.com/smithfield.studio",
     "slug": "smithfield",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 366,
     "timeMonth": 386,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-04": 0
+    }
   },
   {
     "name": "Change.org",
@@ -103,9 +105,9 @@
     "url": "https://planetbaseddiets.panda.org",
     "icon": "https://favicons.githubusercontent.com/planetbaseddiets.panda.org",
     "slug": "wwf-planet-based-diets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -114,7 +116,9 @@
     "timeWeek": 255,
     "timeMonth": 333,
     "timeYear": 326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-04": 0
+    }
   },
   {
     "name": "AFRIpads",
