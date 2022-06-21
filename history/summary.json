@@ -53,10 +53,10 @@
     "url": "https://wooshii.com",
     "icon": "https://favicons.githubusercontent.com/wooshii.com",
     "slug": "wooshii",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 1008,
@@ -65,6 +65,7 @@
     "timeMonth": 1377,
     "timeYear": 1030,
     "dailyMinutesDown": {
+      "2022-06-21": 3,
       "2022-06-01": 18,
       "2022-05-31": 42,
       "2022-01-24": 27,
@@ -77,10 +78,10 @@
     "url": "https://oneflow.com",
     "icon": "https://favicons.githubusercontent.com/oneflow.com",
     "slug": "oneflow",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 985,
@@ -88,7 +89,9 @@
     "timeWeek": 929,
     "timeMonth": 915,
     "timeYear": 1005,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 1
+    }
   },
   {
     "name": "WWF Planet-Based Diets",
@@ -113,9 +116,9 @@
     "url": "https://www.afripads.com",
     "icon": "https://favicons.githubusercontent.com/www.afripads.com",
     "slug": "afr-ipads",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -125,6 +128,7 @@
     "timeMonth": 916,
     "timeYear": 896,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-03-11": 37,
       "2022-01-14": 23,
       "2021-10-13": 22
