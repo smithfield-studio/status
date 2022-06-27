@@ -76,9 +76,9 @@
     "url": "https://oneflow.com",
     "icon": "https://favicons.githubusercontent.com/oneflow.com",
     "slug": "oneflow",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
@@ -88,6 +88,7 @@
     "timeMonth": 906,
     "timeYear": 999,
     "dailyMinutesDown": {
+      "2022-06-27": 0,
       "2022-06-21": 27
     }
   },
