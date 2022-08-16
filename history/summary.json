@@ -4,19 +4,19 @@
     "url": "https://smithfield.studio",
     "icon": "https://favicons.githubusercontent.com/smithfield.studio",
     "slug": "smithfield",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 474,
-    "timeDay": 8075,
-    "timeWeek": 2313,
-    "timeMonth": 843,
-    "timeYear": 523,
+    "timeDay": 5501,
+    "timeWeek": 2095,
+    "timeMonth": 828,
+    "timeYear": 522,
     "dailyMinutesDown": {
-      "2022-08-16": 0
+      "2022-08-16": 7
     }
   },
   {
