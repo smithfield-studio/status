@@ -94,18 +94,20 @@
     "url": "https://planetbaseddiets.panda.org",
     "icon": "https://icons.duckduckgo.com/ip3/planetbaseddiets.panda.org.ico",
     "slug": "wwf-planet-based-diets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 339,
+    "time": 340,
     "timeDay": 389,
     "timeWeek": 395,
     "timeMonth": 336,
     "timeYear": 344,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-28": 0
+    }
   },
   {
     "name": "AFRIpads",
