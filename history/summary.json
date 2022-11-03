@@ -4,18 +4,20 @@
     "url": "https://smithfield.studio",
     "icon": "https://icons.duckduckgo.com/ip3/smithfield.studio.ico",
     "slug": "smithfield",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 491,
+    "time": 492,
     "timeDay": 415,
     "timeWeek": 433,
     "timeMonth": 391,
     "timeYear": 556,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-03": 1
+    }
   },
   {
     "name": "Change.org",
@@ -94,9 +96,9 @@
     "url": "https://planetbaseddiets.panda.org",
     "icon": "https://icons.duckduckgo.com/ip3/planetbaseddiets.panda.org.ico",
     "slug": "wwf-planet-based-diets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +107,9 @@
     "timeWeek": 338,
     "timeMonth": 335,
     "timeYear": 344,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-03": 0
+    }
   },
   {
     "name": "AFRIpads",
