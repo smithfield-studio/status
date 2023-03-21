@@ -72,9 +72,9 @@
     "url": "https://oneflow.com",
     "icon": "https://icons.duckduckgo.com/ip3/oneflow.com.ico",
     "slug": "oneflow",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -84,6 +84,7 @@
     "timeMonth": 305,
     "timeYear": 729,
     "dailyMinutesDown": {
+      "2023-03-21": 0,
       "2022-07-01": 54,
       "2022-06-30": 52,
       "2022-06-21": 27
